@@ -33,15 +33,13 @@ I graduated with a B.Sc. in Petroleum & Gas Engineering (Second Class Upper) fro
 
 ---
 
-## 📂 [Highlighted Projects](https://sites.google.com/view/habibu-yusuf/home)
+## 📂 Highlighted Projects
 
 Here are a few pinned data science projects that demonstrate my expertise in petroleum analytics:
 
 - **Zero Flaring by 2030** – A linear regression model analyzing Nigeria’s gas flaring reduction timeline. *(check my repositories)*
-- **Rig Performance Dashboard** – Visual analytics tool for rig productivity and downtime monitoring.
-- **Economic Impact Model** – Assessment framework linking oil prices, production volumes, and energy sector profitability.
 
-*(Visit my GitHub profile to explore!)*
+*([Read more](https://sites.google.com/view/habibu-yusuf/project))*
 
 ---
 
