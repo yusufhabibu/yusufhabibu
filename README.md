@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Habibu Yusuf**
 
-** Data Scientist** passionate about leveraging data to optimize upstream oil & gas operations and drive sustainable energy solutions.
+** Data Scientist ** passionate about leveraging data to optimize upstream oil & gas operations and drive sustainable energy solutions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -33,7 +33,7 @@ I graduated with a B.Sc. in Petroleum & Gas Engineering (Second Class Upper) fro
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 [Highlighted Projects](https://sites.google.com/view/habibu-yusuf/home)
 
 Here are a few pinned data science projects that demonstrate my expertise in petroleum analytics:
 
