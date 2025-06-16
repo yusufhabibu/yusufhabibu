@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
+![Energy](https://img.shields.io/badge/Energy-Sustainability-brightgreen?style=for-the-badge&logo=leaflet&logoColor=white)
+![Oil & Gas](https://img.shields.io/badge/Oil_&_Gas-Upstream-blue?style=for-the-badge&logo=dropbox&logoColor=white)
 
 ---
 
