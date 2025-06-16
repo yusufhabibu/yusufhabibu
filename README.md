@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Habibu Yusuf**
 
-**Petroleum Data Scientist** passionate about leveraging data to optimize upstream oil & gas operations and drive sustainable energy solutions.
+** Data Scientist** passionate about leveraging data to optimize upstream oil & gas operations and drive sustainable energy solutions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -60,7 +60,7 @@ Here are a few pinned data science projects that demonstrate my expertise in pet
 |--------------|-----------------------------------------------|
 | 🌐 Website   | [habibu-yusuf.online](https://sites.google.com/view/habibu-yusuf/home) |
 | 💼 LinkedIn  | [linkedin.com/in/habibu-yusuf](https://ng.linkedin.com/in/yusuf-habibu-b3b96b190) |
-| ✉️ Email     | habibuyusuf@example.com                        |
+| ✉️ Email     | habibomoniyi2017@gmail.com                        |
 | 🛠 GitHub    | [github.com/habibuyusuf](https://github.com/habibuyusuf) |
 
 ---
